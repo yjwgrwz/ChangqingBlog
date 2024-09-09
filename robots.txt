@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://newzone.top/yjwgrwz.github.io/sitemap.xml
+Sitemap: https://newzone.top/changqing/sitemap.xml
